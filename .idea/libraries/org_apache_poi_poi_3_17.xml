@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="org.apache.poi:poi:3.17" type="repository">
+    <properties maven-id="org.apache.poi:poi:3.17" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections4-4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.17-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.10-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections4-4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections4-4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
